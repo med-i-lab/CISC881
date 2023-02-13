@@ -7,3 +7,4 @@ matplotlib
 optuna
 ipykernel
 jupyter
+seaborn
